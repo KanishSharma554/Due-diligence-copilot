@@ -1,0 +1,20 @@
+# Secrets
+.env
+.env.*
+
+# Python environments
+.venv/
+.venv-*/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Local application cache
+.ai_analysis_cache.json
+
+# OS files
+.DS_Store
+Thumbs.db
